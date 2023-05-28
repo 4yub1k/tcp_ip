@@ -9,7 +9,7 @@ Must read these articles to understand it.
 
 
 ## Usage:
-_Use in linnux environment._
+_Use in linux environment._
 
 Run the script
 ```
